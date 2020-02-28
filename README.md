@@ -4,7 +4,7 @@
 - It should be used TSP-9502001 termoresistors with this device.
 ## The temperature calculation is performed by the method below:
 - it is gotten value of electric resistention
-
+![sheme](pictures/sheme.png)
 
 Вычисление температуры выполняется по формуле: t=0,00097*r*r+2,325*r-242,2
 Формула обеспечивает точность ±0,2 гр С в диапазоне температур 0-200 гр С
