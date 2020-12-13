@@ -19,4 +19,4 @@
 
 ![pic1](https://github.com/AlGol86/temp_tsp_9502-01_measure_device/blob/master/pictures/4-termo.JPG)
 
-![pic2]
+![pic2](https://github.com/AlGol86/temp_tsp_9502-01_measure_device/blob/master/pictures/boxed%204-termo.JPG)
