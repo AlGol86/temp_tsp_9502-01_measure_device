@@ -17,6 +17,6 @@
 Предусмотрено 4 порога индикации:
 50-100-150-200 градусов
 
-![pic1]
+![pic1](https://github.com/AlGol86/temp_tsp_9502-01_measure_device/blob/master/pictures/4-termo.JPG)
 
 ![pic2]
